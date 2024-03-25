@@ -5,7 +5,7 @@
 1. Clone source code
 
 ```shell
-git clone https://github.com/huunghianguyenish/what-to-watch-today.git
+git clone https://github.com/huunghianguyenish/hello-world-effect.git
 ```
 2. Start code
 
